@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LINlin10086
+- 👋 Hi, I’m Meraki.
 - 👀 I’m interested in making money.
 - 🌱 I’m currently learning Python,Java,Flexsim,SPSS...
 - 💞️ I’m looking to collaborate on computer programming languages.
